@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "byebug", "~> 11.1", platforms: %i[mri mingw x64_mingw]
 gem "chunky_png", "~> 1.4"
 gem "image_size", "~> 3.0"
-gem "launchy", "~> 2.5"
+gem "launchy", "~> 3.1"
 gem "pdf-reader", "~> 2.12"
 gem "puma", ">= 5.6.7"
 gem "rake", "~> 13.0"
